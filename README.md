@@ -1,2 +1,3 @@
-# checkupdate
-netflix-design-clone (testing only)
+# .ignore
+
+Test repo.
