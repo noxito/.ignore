@@ -2739,6 +2739,34 @@ http://mains.best:2086/htyrvtit/3650427/92632
 http://mains.best:2086/htyrvtit/3650427/92631
 #EXTINF:-1 tvg-id="" tvg-name="BR : WOOHOO" tvg-logo="http://cdn.countryflags.com/thumbs/brazil/flag-round-250.png" group-title="BRAZILIAN TV",BR : WOOHOO
 http://mains.best:2086/htyrvtit/3650427/92630
+
+#EXTINF:-1 tvg-id="" tvg-name="BR : SBT SP" tvg-logo="http://cdn.countryflags.com/thumbs/brazil/flag-round-250.png" group-title="BRAZILIAN TV ABERTA",BR : SBT SP
+https://5a1c76baf08c0.streamlock.net/sbtinterior/SLmOiqg505FQZnhkfn01x94qWLHzQzfQ/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="BR : RecordTV SP" tvg-logo="http://cdn.countryflags.com/thumbs/brazil/flag-round-250.png" group-title="BRAZILIAN TV ABERTA",BR : RecordTV SP
+https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="BR : RecordTV RJ" tvg-logo="http://cdn.countryflags.com/thumbs/brazil/flag-round-250.png" group-title="BRAZILIAN TV ABERTA",BR : RecordTV RJ
+https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="BR : Record News" tvg-logo="http://cdn.countryflags.com/thumbs/brazil/flag-round-250.png" group-title="BRAZILIAN TV ABERTA",BR : Record News
+https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="BR : Band" tvg-logo="http://cdn.countryflags.com/thumbs/brazil/flag-round-250.png" group-title="BRAZILIAN TV ABERTA",BR : Band
+https://evpp.mm.uol.com.br/geob_band/band/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="BR : Band News" tvg-logo="http://cdn.countryflags.com/thumbs/brazil/flag-round-250.png" group-title="BRAZILIAN TV ABERTA",BR : Band News
+https://evpp.mm.uol.com.br/geob_band/bandnewstv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="BR : Terra Viva" tvg-logo="http://cdn.countryflags.com/thumbs/brazil/flag-round-250.png" group-title="BRAZILIAN TV ABERTA",BR : Terra Viva
+http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="BR : Canal Rural" tvg-logo="http://cdn.countryflags.com/thumbs/brazil/flag-round-250.png" group-title="BRAZILIAN TV ABERTA",BR : Canal Rural
+https://5f984b2feeeb4.streamlock.net/crur/smil:canalrural.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="BR : Canal do Boi" tvg-logo="http://cdn.countryflags.com/thumbs/brazil/flag-round-250.png" group-title="BRAZILIAN TV ABERTA",BR : Canal do Boi
+https://aovivo2.equipea.com.br:5443/WebRTCAppEE/streams/096507120760362020454067.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="BUMBLEBEETV: ANIMALS LIVE" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/31TNnOnn3zL._SY355_.png" group-title="BUMBLEBEE TV",BUMBLEBEETV: ANIMALS LIVE
 http://mains.best:2086/htyrvtit/3650427/98323
 #EXTINF:-1 tvg-id="" tvg-name="BUMBLEBEETV: AURORA LIVE" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/31TNnOnn3zL._SY355_.png" group-title="BUMBLEBEE TV",BUMBLEBEETV: AURORA LIVE
